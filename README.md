@@ -3,8 +3,7 @@ Power BI dashboard analyzing 428 car models: MSRP, horsepower, MPG, DriveTrain i
 
 # Automotive Analytics Dashboard | Power BI Project
 
-![Full Dashboard Screenshot](
-BI PROJECT 2 DASHBOARD.png)
+![Full Dashboard Screenshot](https://github.com/ASDanta/Automotive-Analytics-Power-BI/blob/main/BI%20PROJECT%202%20DASHBOARD.png)
 
 Interactive Power BI dashboard analyzing **428 car models** to uncover insights on pricing, performance, fuel efficiency, and real vehicle value.
 
