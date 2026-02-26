@@ -24,7 +24,7 @@ This project answers key questions using data visualization and DAX:
 - Visuals: KPI cards, gauge, scatter with trend line, clustered bars, donut, horizontal bars
 
 ## Screenshots
-(https://github.com/ASDanta/Automotive-Analytics-Power-BI/blob/main/BI%20PROJECT%202%20TABLE%20VIEW.png)
+BI PROJECT 2 TABLE VIEW.png
 
 ## Key Insights
 - **Pricing gap**: European cars average ~$44K MSRP vs Asian cars ~$23K
