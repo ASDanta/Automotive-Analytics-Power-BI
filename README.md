@@ -25,6 +25,7 @@ This project answers key questions using data visualization and DAX:
 
 ## Screenshots
 https://github.com/ASDanta/Automotive-Analytics-Power-BI/blob/main/BI%20PROJECT%202%20TABLE%20VIEW.png
+https://github.com/ASDanta/Automotive-Analytics-Power-BI/blob/main/BI%20PROJECT%202%20TRANSFORM%20DATA.png
 
 ## Key Insights
 - **Pricing gap**: European cars average ~$44K MSRP vs Asian cars ~$23K
@@ -43,6 +44,5 @@ Feedback welcome! Feel free to star ⭐, fork, or open an issue.
 Built by Asu Daniel  
 Data Analyst | Power BI • SQL • Excel • Python  
 Lagos, Nigeria  
-[LinkedIn](https://www.linkedin.com/in/your-profile-here)  
 
 Last updated: February 2026
