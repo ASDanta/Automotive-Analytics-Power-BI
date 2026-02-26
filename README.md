@@ -23,28 +23,16 @@ This project answers key questions using data visualization and DAX:
 - Interactive slicers & filters
 - Visuals: KPI cards, gauge, scatter with trend line, clustered bars, donut, horizontal bars
 
+## Screenshots
+
+
 ## Key Insights
 - **Pricing gap**: European cars average ~$44K MSRP vs Asian cars ~$23K
 - **Power leaders**: Porsche (~321 HP), Hummer, Jaguar, Cadillac, Infiniti — but combined MPG averages just 23.45
 - **DriveTrain impact**: Rear-wheel = best highway (25 MPG); All-wheel = lowest overall (17 city / 20 highway)
 - **Value Score winner** (HP + Combined MPG normalized by price): **Saturn** tops the list, followed by Suzuki & Toyota
 - **Strong correlation**: Larger engine size → higher horsepower (clear trend across types)
-
-## Screenshots
-
-| View                        | Description                              |
-|-----------------------------|------------------------------------------|
-| ![Full Dashboard](images/full_dashboard.png) | Complete dashboard with all visuals     |
-| ![Value Score](images/value_score_chart.png) | Ranking of makes by custom Value Score  |
-| ![MPG by DriveTrain](images/mpg_drivetrain.png) | City vs Highway efficiency comparison   |
-| ![Horsepower by Make](images/horsepower_make.png) | Average HP distribution by make         |
-
-## How to View / Use the Project
-1. Download or clone the repo.
-2. Open `Automotive Analytics Dashboard.pbix` in **Power BI Desktop** (free download: https://powerbi.microsoft.com/desktop/).
-3. Use the slicers to filter by Make, Type, Origin, DriveTrain.
-4. Explore the visuals and interact!
-
+  
 ## Improvements & Learnings
 - Added data labels and clearer tooltips in future versions.
 - Planning to publish interactive version to Power BI Service (will add link here).
